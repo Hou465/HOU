@@ -12,3 +12,4 @@ if random.random() < 0.5:
 else:
     x0 -= 1
 print(y0,x0)
+vdvdd
